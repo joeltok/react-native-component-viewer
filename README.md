@@ -8,7 +8,7 @@ Useful for:
 - NPM module creators / contributors who wish to test the look and feel of their module component(s) in isolation
 
 How to use:
-- Clone Repo
+- Clone Repo `git clone https://github.com/joeltok/react-native-component-viewer.git <new folder name>`
 - Add component file(s)
   - For npm modules, just `npm install --save <module name>`
   - For regular components, `import <component> from <file path>` in app/index.js
